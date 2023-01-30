@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-danipv54/danipv54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Daniel Patricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=danipv54&show_icons=true&theme=merko)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danipv54&repo=Awesome-development-tools)](https://github.com/anuraghazra/github-readmestats&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danipv54&repo=Visual-studio-code-y-sublime-text)](https://github.com/anuraghazra/github-readmestats&theme=gruvbox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danipv54&repo=3d-Card)](https://github.com/anuraghazra/github-readme-stats&theme=default_repocard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danipv54&repo=HTML-Dominicana)](https://github.com/anuraghazra/github-readme-stats&cache_seconds=86400&bg_color=DEG)
+
