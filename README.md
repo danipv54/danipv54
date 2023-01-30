@@ -6,8 +6,5 @@
 
 ![Daniel Patricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=danipv54&show_icons=true&theme=merko)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danipv54&repo=Awesome-development-tools)](https://github.com/anuraghazra/github-readmestats&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danipv54&repo=Visual-studio-code-y-sublime-text)](https://github.com/anuraghazra/github-readmestats&theme=gruvbox)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danipv54&repo=3d-Card)](https://github.com/anuraghazra/github-readme-stats&theme=default_repocard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danipv54&repo=HTML-Dominicana)](https://github.com/anuraghazra/github-readme-stats&cache_seconds=86400&bg_color=DEG)
+
 
